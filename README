@@ -1,1 +1,5 @@
 Running ansible in a docker container.
+
+Use this command to start the web server from dockerhub:
+
+`docker run -p 8000:80 timoschmid/devmeeting-ansible`
